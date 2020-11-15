@@ -1,4 +1,4 @@
-# Example Progress Journal
+# Homeworks and Projects
 
 ## Week 0 (October 29)
 
