@@ -6,4 +6,3 @@
 
 ## Week 1 (November 20)
 
-[Here](files/582 HW1 - Task 1.ipynb) are my answers for Task 1
