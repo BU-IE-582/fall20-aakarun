@@ -7,4 +7,4 @@
 ## Week 1 (November 20)
 
 [Here](files/HW1/IE582_Fall20_Homework1.pdf) is the homework description \
-[Here](files/HW1/582HW1_alltasks.html) are my results and its [code](files/HW1/582HW1_alltasks.ipynb)
+[Here](files/HW1/582HW1_alltasks.html) are my results and its [code](files/HW1/582HW1alltasks.ipynb)
