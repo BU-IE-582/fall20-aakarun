@@ -6,4 +6,3 @@
 
 ## Week 1 (November 20)
 
-[Here] (files/IE582_Fall20_Homework1.pdf) is the homework description
