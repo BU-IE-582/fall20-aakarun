@@ -19,3 +19,8 @@ Here are my [results](files/HW2/582_HW2_Ersoy.html) \
 [Homework Description](files/HW3/IE582_Fall2020_Homework3.pdf) \
 Here are my [results](files/HW3/582_HW3_Ersoy.html) \
 [ipynb file](files/HW3/582_HW3_Ersoy.ipynb)
+
+## Homework 4 (January 29, 2021)
+[Homework Description](files/HW4/IE582_Fall2020_Homework4.pdf) \
+Here are my [results](files/HW4/582_HW4_Ersoy.html) \
+[ipynb file](files/HW4/582_HW4_Ersoy.ipynb)
