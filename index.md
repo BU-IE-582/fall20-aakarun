@@ -24,3 +24,6 @@ Here are my [results](files/HW3/582_HW3_Ersoy.html) \
 [Homework Description](files/HW4/IE582_Fall2020_Homework4.pdf) \
 Here are my [results](files/HW4/582_HW4_Ersoy.html) \
 [ipynb file](files/HW4/582_HW4_Ersoy.ipynb)
+
+## Project (February 15, 2021)  
+Here is our [report](files\IE582_ProjectReport.html)
